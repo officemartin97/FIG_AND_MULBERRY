@@ -1,0 +1,11 @@
+#ignore .git directory
+/.git
+
+
+# track these files, if they exist
+!.editorconfig
+!.env.example
+!.git-blame-ignore-revs
+!.gitignore
+!.nvmrc
+!.phpcs.xml.dist
